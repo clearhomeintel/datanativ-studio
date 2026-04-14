@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+datanativ.db
+*.db
+college_data_cache.json
